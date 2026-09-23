@@ -1,6 +1,6 @@
-Hello World
-Novy radek
-Další novy radek
-4. řádek
+Hello World - - - 
+Novy radek  */- /-* 
+Další novy radek -/* - *-
+4. řádek -* -* --*/
 5. řádek
 6.
